@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 康嘉来
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jialai Kang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jialai 
+last_name: Kang
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in astronomy 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Science and Technology of China
+    url: https://en.ustc.edu.cn/
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -49,3 +49,4 @@ profiles:
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
 distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
 self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
