@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'ericofk@mail.ustc.edu.cn'
+    url: 'mailto:ericofk@mail.ustc.edu.cn'
     label: E-mail Me
   - icon: brands/orcid
     url: [https://www.orcid.com/](https://orcid.org/0000-0003-2280-2904)
