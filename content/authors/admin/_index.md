@@ -31,7 +31,7 @@ profiles:
     url: 'mailto:ericofk@mail.ustc.edu.cn'
     label: E-mail Me
   - icon: brands/orcid
-    url: [https://www.orcid.com/](https://orcid.org/0000-0003-2280-2904)
+    url: https://orcid.org/0000-0003-2280-2904
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
