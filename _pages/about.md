@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: Postdoctoral Researcher, University of Geneva (from Sept 2026)
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -11,22 +10,15 @@ profile:
   more_info: >
     <p>Department of Astronomy</p>
     <p>University of Geneva</p>
-
-news: true
-selected_papers: true
-social: true
+news: false
+selected_papers: false
+social: false
 ---
 
-I am an astrophysicist specializing in the X-ray coronae of active galactic 
-nuclei (AGN), coronal line emission, and multi-wavelength quasar properties. 
-Starting September 2026, I will be a postdoctoral researcher in the 
-Department of Astronomy at the University of Geneva, working with 
-Prof. Claudio Ricci.
+I am an astrophysicist specializing in the accretion system of active galactic nuclei (AGN).
 
-I completed my PhD in astrophysics at the University of Science and 
-Technology of China (USTC), supervised by Prof. Jun-Xian Wang, and spent 
-a visiting year at Durham University working with Chris Done and Martin Ward.
+Starting September 2026, I will be a postdoctoral researcher in the Department of Astronomy at the University of Geneva, working with Prof. Claudio Ricci.
 
-My research centers on Comptonization physics, coronal temperature and 
-optical depth, X-ray occultation events, time-lag analysis, and 
-multi-wavelength characterization of AGN.
+I completed my PhD in astrophysics at the University of Science and Technology of China (USTC), supervised by Prof. Jun-Xian Wang, and spent a visiting year at Durham University working with Prof. Chris Done and Martin Ward.
+
+My research centers on the X-ray corona, occultation events, broad-band SED, and coronal lines of AGN.
